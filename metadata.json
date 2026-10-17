@@ -1,0 +1,6 @@
+{
+  "name": "EquipLink - Campus Equipment Borrowing System & Java Code Generator",
+  "description": "Interactive EquipLink campus equipment borrowing and approval management system featuring student/staff/director workflows and complete detailed Java OOP & Swing code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
